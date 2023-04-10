@@ -1,0 +1,31 @@
+body {
+    background-image: url(images/fon.png);
+    color: white;
+    font-family: sans-serif;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header a {
+    color: white;
+}
+
+.header a:hover {
+    color: rgb(199, 199, 233);
+}
+
+.menu-header {
+    display: flex;
+
+}
+
+.meni-iteam {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 20px;
+}
